@@ -23,7 +23,7 @@ I'm learning:  to code
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
-![The Donald by himself](squarefacebandit/lswebhomework3/tweet.png)
+![The Donald by himself] (squarefacebandit/lswebhomework3/tweet.png)
 
 ## Task Two ##
 
