@@ -11,17 +11,19 @@
 
 ```
 
-My name is:
+My name is:  Rose MacDuff
 
-I like to:
+I like to:  Read
 
-I'm learning:
+I'm learning:  to code
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
 
 4. Push it up to your own repository on Github (don't try to override the original).
+
+![The Donald by himself](lswebhomework3/tweet.png)
 
 ## Task Two ##
 
